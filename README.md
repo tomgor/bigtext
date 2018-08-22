@@ -28,4 +28,4 @@ BigTextInput.initBigTextInput({
         }
     });
 ```
-#### 小东西，欢迎指教[QQ邮箱](maiTo:22257170@qq.com)
+#### 小东西，欢迎指教 QQ邮箱:22257170@qq.com
